@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Inter-Regular';
+  src: url('../assets/fonts/inter/static/Inter-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: Inter-Regular !important;
+}
+
+@import 'tailwind';
